@@ -1,0 +1,6 @@
+rootProject.name = "pr5"
+include ':app'
+include ':accelerometer'
+include ':audiorecord'
+include ':camera'
+
